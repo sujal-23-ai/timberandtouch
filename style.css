@@ -154,6 +154,7 @@ nav .content .links li{
     .header #show-menu:checked ~ .menu-icon i::before{
         content: "\f00d";
     }
+    
     nav .content .links{
         display: block;
         position: fixed;
@@ -185,6 +186,7 @@ nav .content .links li{
     .content .links li a.desktop-link{
         display: none;
     }
+    
 }
 /* Header End */
 
